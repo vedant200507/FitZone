@@ -2,7 +2,6 @@
 
 A modern, responsive, and visually appealing fitness club landing page built using **HTML5** and **CSS3**. This project demonstrates strong front-end development skills by implementing modern layouts, attractive UI design, smooth animations, interactive elements, and professional styling techniques.
 
-Whether viewed on desktop or mobile, FitZone provides a clean and engaging user experience while showcasing a wide range of CSS concepts.
 
 ---
 
@@ -10,7 +9,7 @@ Whether viewed on desktop or mobile, FitZone provides a clean and engaging user 
 
 FitZone Fitness Club is a responsive front-end website designed for a fitness center or gym. The website provides users with information about the gym, available services, membership plans, and the benefits of joining.
 
-The main objective of this project was to strengthen my understanding of HTML and CSS by building a real-world landing page without using any CSS frameworks.
+The main objective of this project was to strengthen my understanding of HTML and CSS by building a real-world landing page without using any JavaScript Functionalities.
 
 ---
 
@@ -256,13 +255,13 @@ Run using **Live Server** in Visual Studio Code.
 
 ### ⭐ Why Choose Us
 
-![Why Choose Us](screenshots/why-choose-us.png)
+![Why Choose Us](screenshots/why choose us.png)
 
 ---
 
 ### 💳 Membership Plans
 
-![Plans](screenshots/membership-plans.png)
+![Plans](screenshots/plans.png)
 
 # 📚 Learning Outcomes
 
@@ -299,7 +298,6 @@ This project helped me strengthen my understanding of:
 - BMI Calculator
 - Contact Form
 - Trainer Profiles
-- Testimonials Section
 - Gallery Section
 - Membership Registration Form
 - Backend Integration
