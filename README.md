@@ -255,7 +255,7 @@ Run using **Live Server** in Visual Studio Code.
 
 ### ⭐ Why Choose Us
 
-![Why Choose Us](screenshots/why choose us.png)
+![Why Choose Us](screenshots/choose.png)
 
 ---
 
