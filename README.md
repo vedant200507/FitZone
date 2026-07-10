@@ -332,3 +332,7 @@ Your support motivates me to build more exciting projects and continuously impro
 This project is created for learning and portfolio purposes.
 
 © 2026 Vedant Kolapkar. All Rights Reserved.
+
+ ## 🌐 Live Demo
+
+🔗 https://vedant200507.github.io/FitZone/
